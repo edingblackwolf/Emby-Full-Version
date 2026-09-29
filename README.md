@@ -250,4 +250,4 @@ This repository serves as the official landing page for Emby. The software is di
 **Get the most recent version of Emby today!**
 
 ---
-**Last updated:** 2026-09-28 21:39:57 UTC
+**Last updated:** 2026-09-29 01:34:09 UTC
